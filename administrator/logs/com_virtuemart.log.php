@@ -1,0 +1,4 @@
+#
+#<?php die("Forbidden."); ?>
+
+2016-11-05 05:16:04 ERROR vmError: Warning, the Safe Path is empty, for safety reasons it is very important to create a folder in a path not accessible by an URL or unguessable name, create also a folder 'invoices' and 'keys' in it to store your sensitive data secure. Our suggested path is for your system 'C:\wamp64\www\vmfiles\'. <br>You can also use complex folder name as 'password' for example 'C:\wamp64\www\Joomla/administrator/components/com_virtuemart\xVcuF6swebLt\'. Use this link to the <a href='http://localhost/joomla/administrator/index.php?option=com_virtuemart&view=config' >config</a>
